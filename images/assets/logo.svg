@@ -1,8 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 257 39" style="enable-background:new 0 0 257 39;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 257 39"
+   style="enable-background:new 0 0 257 39;"
+   xml:space="preserve"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata81"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs79">
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="709"
+   id="namedview77"
+   showgrid="false"
+   inkscape:zoom="1.3346304"
+   inkscape:cx="128.5"
+   inkscape:cy="19.5"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
 	.st0{clip-path:url(#SVGID_2_);}
 	.st1{clip-path:url(#SVGID_4_);}
 	.st2{clip-path:url(#SVGID_6_);enable-background:new    ;}
@@ -17,71 +62,170 @@
 	.st11{fill:#333333;stroke:#333333;stroke-miterlimit:10;}
 	.st12{font-size:24.1026px;}
 </style>
-<title>logo</title>
-<desc>Created with Sketch.</desc>
-<g>
-	<g>
-		<g>
-			<g>
-				<g>
-					<g>
-						<g>
-							<defs>
-								<rect id="SVGID_1_" x="1.8" y="1" width="38" height="38"/>
+<title
+   id="title4">logo</title>
+<desc
+   id="desc6">Created with Sketch.</desc>
+<g
+   id="g4664"><g
+     id="g70">
+		<g
+   id="g68">
+			<g
+   id="g66">
+				<g
+   id="g64">
+					<g
+   id="g62">
+						<g
+   id="g60">
+							<defs
+   id="defs9">
+								<rect
+   id="SVGID_1_"
+   x="1.8"
+   y="1"
+   width="38"
+   height="38" />
 							</defs>
-							<clipPath id="SVGID_2_">
-								<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+							<clipPath
+   id="SVGID_2_">
+								<use
+   xlink:href="#SVGID_1_"
+   style="overflow:visible"
+   id="use11"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
 							</clipPath>
-							<g class="st0">
-								<g>
-									<g>
-										<g>
-											<g>
-												<g>
-													<defs>
-														<rect id="SVGID_3_" x="1.8" y="1" width="38" height="38"/>
+							<g
+   class="st0"
+   clip-path="url(#SVGID_2_)"
+   id="g54">
+								<g
+   id="g52">
+									<g
+   id="g50">
+										<g
+   id="g48">
+											<g
+   id="g26">
+												<g
+   id="g24">
+													<defs
+   id="defs15">
+														<rect
+   id="SVGID_3_"
+   x="1.8"
+   y="1"
+   width="38"
+   height="38" />
 													</defs>
-													<clipPath id="SVGID_4_">
-														<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+													<clipPath
+   id="SVGID_4_">
+														<use
+   xlink:href="#SVGID_3_"
+   style="overflow:visible"
+   id="use17"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
 													</clipPath>
-													<g class="st1">
+													<g
+   class="st1"
+   clip-path="url(#SVGID_4_)"
+   id="g22">
 														
-															<image style="overflow:visible;enable-background:new    ;" width="526" height="526" xlink:href="6AD9AF8D.png"  transform="matrix(7.200000e-02 0 0 7.200000e-02 1.8053 1.0256)">
+															<image
+   sodipodi:absref="/var/www/html/Vibranium/images/assets/6AD9AF8D.png"
+   xlink:href="6AD9AF8D.png"
+   id="image20"
+   transform="matrix(0.072,0,0,0.072,1.8053,1.0256)"
+   height="526"
+   width="526"
+   style="overflow:visible;enable-background:new">
 														</image>
 													</g>
 												</g>
 											</g>
-											<g>
-												<g>
-													<g>
-														<g>
-															<defs>
-																<rect id="SVGID_5_" x="1.8" y="1" width="38" height="38"/>
+											<g
+   id="g46">
+												<g
+   id="g42">
+													<g
+   id="g40">
+														<g
+   id="g38">
+															<defs
+   id="defs29">
+																<rect
+   id="SVGID_5_"
+   x="1.8"
+   y="1"
+   width="38"
+   height="38" />
 															</defs>
-															<clipPath id="SVGID_6_">
-																<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+															<clipPath
+   id="SVGID_6_">
+																<use
+   xlink:href="#SVGID_5_"
+   style="overflow:visible"
+   id="use31"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
 															</clipPath>
-															<g class="st2">
-																<text transform="matrix(1 0 0 1 46.1797 26.4546)" class="st3 st4 st5">DSC Kisii University</text>
+															<g
+   class="st2"
+   clip-path="url(#SVGID_6_)"
+   id="g36"
+   style="enable-background:new">
+																<text
+   transform="translate(46.1797,26.4546)"
+   class="st3 st4 st5"
+   id="text34"
+   style="font-size:21.93759918px;font-family:ProductSans-Regular;fill:#020203">DSC Kisii University</text>
+
 															</g>
 														</g>
 													</g>
 												</g>
-												<text transform="matrix(1 0 0 1 44.5 27.4434)" class="st4 st6">DSC Kisii University</text>
+												<text
+   transform="translate(44.5,27.4434)"
+   class="st4 st6"
+   id="text44"
+   style="font-size:23.48240089px;font-family:ProductSans-Regular">DSC Kisii University</text>
+
 											</g>
 										</g>
 									</g>
 								</g>
 							</g>
-							<g class="st7">
-								<text transform="matrix(1 0 0 1 48.0752 27.0146)" class="st8 st9 st10">DSC Kisii University</text>
+							<g
+   class="st7"
+   clip-path="url(#SVGID_2_)"
+   id="g58"
+   style="enable-background:new">
+								<text
+   transform="translate(48.0752,27.0146)"
+   class="st8 st9 st10"
+   id="text56"
+   style="font-size:21.50629997px;font-family:TTNorms-Bold;fill:#606060">DSC Kisii University</text>
+
 							</g>
 						</g>
 					</g>
 				</g>
 			</g>
 		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 47.3916 27.7144)" class="st11 st4 st12">DSC Kisii University</text>
+	</g><text
+     y="27.714399"
+     x="47.391602"
+     class="st11 st4 st12"
+     id="text72"
+     style="font-size:24.1026001px;font-family:ProductSans-Regular;fill:#333333;stroke:#333333;stroke-miterlimit:10">DSC Kimathi University</text>
 </g>
 </svg>
